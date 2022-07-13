@@ -50,8 +50,8 @@ Demo演示
 * 测试前确认已安装MySQL数据库
 
     ```C++
-    // 建立yourdb库
-    create database yourdb;
+    // 建立cy库
+    create database cy;
 
     // 创建user表
     USE cy;
